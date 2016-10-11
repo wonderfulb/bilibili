@@ -13,6 +13,7 @@
         <div class="row">
             <div class="col-md-6 m-b-20">
                 <p>Multi-Codec with no JavaScript fallback player - Cross Browser</p>
+<<<<<<< HEAD
                 <video width="100%" height="100%" id="multiCodec" poster="{{ URL('admins/img/media-player/media-player-poster.jpg') }}" controls="controls" preload="none" src="{{ URL('admins/media/xiaohuangren.mp4') }}"> <!-- id could be any according to you -->
                     <!-- MP4 source must come first for iOS -->
                     <source type="video/mp4" src="{{ URL('admins/media/echohereweare.mp4') }}" />
@@ -26,6 +27,21 @@
                             <param name="flashvars" value="controls=true&amp;poster={{ URL('admins/img/media-player/media-player-poster.jpg') }}&amp;file={{ URL('admins/media/echohereweare.mp4') }}" />
                             <!-- Image fall back for non-HTML5 browser with JavaScript turned off and no Flash player installed -->
                             <img src="{{ URL('admins/img/media-player/media-player-poster.jpg') }}" width="100%" height="100%" alt="Media" title="No video playback capabilities" />
+=======
+                <video width="100%" height="100%" id="multiCodec" poster="img/media-player/media-player-poster.jpg" controls="controls" preload="none"> <!-- id could be any according to you -->
+                    <!-- MP4 source must come first for iOS -->
+                    <source type="video/mp4" src="media/echohereweare.mp4" />
+                    <!-- WebM for Firefox 4 and Opera -->
+                    <source type="video/webm" src="media/echohereweare.webm" />
+                    <!-- OGG for Firefox 3 -->
+                    <source type="video/ogg" src="media/echohereweare.ogv" />
+                    <!-- Fallback flash player for no-HTML5 browsers with JavaScript turned off -->
+                    <object width="100%" height="100%" type="application/x-shockwave-flash" data="media/flashmediaelement.swf">
+                            <param name="movie" value="media/flashmediaelement.swf" />
+                            <param name="flashvars" value="controls=true&amp;poster=img/media-player/media-player-poster.jpg&amp;file=media/echohereweare.mp4" />
+                            <!-- Image fall back for non-HTML5 browser with JavaScript turned off and no Flash player installed -->
+                            <img src="img/media-player/media-player-poster.jpg" width="100%" height="100%" alt="Media" title="No video playback capabilities" />
+>>>>>>> 594afb23357b0cc5c87415a046971ede1cdd30b8
                     </object>
                 </video>
             </div>
@@ -56,6 +72,7 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
      <!-- Media -->
         <script src="js/media-player.min.js"></script> <!-- Video Player -->
         <script src="js/pirobox.min.js"></script> <!-- Lightbox -->
@@ -65,4 +82,6 @@
  <!-- Media -->
         <script src="js/media-player.min.js"></script> <!-- Video Player -->
         <script src="js/pirobox.min.js"></script> <!-- Lightbox -->
+=======
+>>>>>>> 594afb23357b0cc5c87415a046971ede1cdd30b8
 @endsection

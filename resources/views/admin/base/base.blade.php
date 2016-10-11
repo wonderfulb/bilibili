@@ -258,8 +258,11 @@
 
         <!-- All JS functions -->
         <script src="{{ asset('admins/js/functions.js') }}"></script>
+<<<<<<< HEAD
         @section("myscript")
 
         @show
+=======
+>>>>>>> 594afb23357b0cc5c87415a046971ede1cdd30b8
     </body>
 </html>
