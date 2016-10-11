@@ -18,13 +18,7 @@ Route::get("/admin",function(){
     return view("admin.index.index");
 });
 
-<<<<<<< HEAD
-=======
-Route::get("/admin",function(){
-    return view("admin.index.index");
-});
 
->>>>>>> 594afb23357b0cc5c87415a046971ede1cdd30b8
 Route::get("/admin/plate",function(){
     return view("admin.plate.plate");
 });
