@@ -17,10 +17,21 @@ class modelController extends Controller
     public function index()
     {
         //遍历首页
-        $typeList = \DB::table('wb_vType')->get();
-        $list = \DB::table('wb_video')->get();
 
-        return view('index',["list"=>$list,"typeList"=>$typeList]);
+        //遍历热门视频
+        $hotList = \DB::table('wb_video')->join('wb_userdetail','wb_userdetail.id','=','wb_video.uid')->orderby('count','desc')->limit(8)->get();
+        //遍历分区
+        $typeList = \DB::table('wb_vType')->get();
+        //遍历分区内视频
+        $list = \DB::table('wb_video')->join('wb_userdetail','wb_userdetail.id','=','wb_video.uid')->orderby("wb_video.id","desc")->get();
+        //遍历分区内分类列表
+        $tList = \DB::table('wb_tList')->get();
+        //遍历轮播图片
+        $lunbo = \DB::table('wb_lunbo')->where('status',"1")->get();
+        //遍历分区内排行
+        $listP = \DB::table('wb_video')->join('wb_userdetail','wb_userdetail.id','=','wb_video.uid')->orderby("count","desc")->get();
+        //遍历视频作者信息
+                return view('index',["hotList"=>$hotList,"list"=>$list,"typeList"=>$typeList,"tList"=>$tList,"lunbo"=>$lunbo,"listP"=>$listP]);
     }
 
     /**

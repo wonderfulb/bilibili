@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-6 m-b-20">
                 <p>Multi-Codec with no JavaScript fallback player - Cross Browser</p>
-                <video width="100%" height="100%" id="multiCodec" poster="{{ URL('admins/img/media-player/media-player-poster.jpg') }}" controls="controls" preload="none"> <!-- id could be any according to you -->
+                <video width="100%" height="100%" id="multiCodec" poster="{{ URL('admins/img/media-player/media-player-poster.jpg') }}" controls="controls" preload="none" src="{{ URL('admins/media/xiaohuangren.mp4') }}"> <!-- id could be any according to you -->
                     <!-- MP4 source must come first for iOS -->
                     <source type="video/mp4" src="{{ URL('admins/media/echohereweare.mp4') }}" />
                     <!-- WebM for Firefox 4 and Opera -->

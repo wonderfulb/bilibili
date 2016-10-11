@@ -73,349 +73,27 @@
             <nav class="kind-list">
                 <ul class="navlist-box">
                     <li class="home">
-                        <a href="javascript:;">首页</a>
+                        <a href="/">首页</a>
                     </li>
-                    <li class="list-panel">
-                        <i>203</i>
-                        <a href="javascript:;">动画</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">MAD-AMV
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">MMD·3D
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">短片·手书·配信
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">综合
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>50</i>
-                        <a href="javascript:;">番剧</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">连载动画
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">完结动画
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">资讯
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">官方延伸
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">国产动画
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">新番Index
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>361</i>
-                        <a href="javascript:;">音乐</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">翻唱
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">VOCALOID·UTAU
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">演奏
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">三次元音乐
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">同人音乐
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">OP/ED/OST
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">音乐选集
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>80</i>
-                        <a href="javascript:;">舞蹈</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">宅舞
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">三次元舞蹈
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">舞蹈教程
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>999+</i>
-                        <a href="javascript:;">游戏</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">单机联机
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">网游·电竞
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">音游
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">Mugen
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">GMV
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>233</i>
-                        <a href="javascript:;">科技</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">纪录片
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">趣味科普人文
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">野生技术协会
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">演讲·公开课
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">军事
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">数码
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">机械
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>772</i>
-                        <a href="javascript:;">娱乐</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">搞笑
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">生活
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">美食圈
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">综艺
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">娱乐圈
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">Korea相关
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>33</i>
-                        <a href="javascript:;">鬼畜</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">鬼畜调教
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">音MAD
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">人力VOCALOID
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">教程演示
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>140</i>
-                        <a href="javascript:;">电影</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">电影相关
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">短片
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">欧美电影
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">日本电影
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">国产电影
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">其他国家
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>228</i>
-                        <a href="javascript:;">电视剧</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">连载剧集
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">完结剧集
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">特设·布袋
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">电视剧相关
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="list-panel">
-                        <i>38</i>
-                        <a href="javascript:;">时尚</a>
-                        <ul class="childlist-box">
-                            <li>
-                                <a href="javascript:;">美妆健身
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">服饰
-                                    <em></em>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="javascript:;">资讯
-                                    <em></em>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
+                    @foreach($typeList as $type)
+                        <li class="list-panel">
+                            <i>203</i>
+                            <a href="{{ $type->link }}">{{ $type->name }}</a>
+                            <ul class="childlist-box">
+                            @foreach($tList as $tlist)
+                                @if($tlist->tid == $type->id)
+                                <li>
+                                    <a href="{{ $tlist->link }}">{{ $tlist->name }}
+                                        <em></em>
+                                    </a>
+                                </li>
+
+                                @endif
+                            @endforeach
+                            </ul>
+                        </li>
+                    @endforeach
+
                     <li class="list-panel">
                         <span></span>
 
@@ -443,30 +121,27 @@
             <div class="part1">
                 <div class="carousel">
                     <ul class="carousel-list">
-                        <li>
-                            <img src="http://i0.hdslb.com/u_user/fed83a4dfda6e755f0626a244ebafdd0.png" alt="" title="哔哩哔哩2016拜年祭 有抽奖哦">
-                        </li>
-                        <li>
-                            <img src="http://i1.hdslb.com/u_user/957506a10ef5732c4c96cb05728b0e66.jpg" alt="" title="新春贺岁">
-                        </li>
-                        <li>
-                            <img src="http://i2.hdslb.com/u_user/d8f502105953074778ddabbafbc96220.jpg" alt="" title="别人世界里的科学">
-                        </li>
-                        <li>
-                            <img src="http://i2.hdslb.com/u_user/a94186054c64144eaabfdb63b2c5d67f.jpg" alt="" title="和小电视一起环游世界吧～☆">
-                        </li>
-                        <li>
-                            <img src="http://i2.hdslb.com/promote/29b42120cefd9d0d734d01d0e309536d.jpg" alt="" title="物语轨迹">
-                        </li>
-                        <li>
-                            <img src="http://i0.hdslb.com/u_user/07d4ffba9f7dc64521d6631b28be9945.jpg" alt="" title="中文歌唱贼⑥的那些歪果仁">
-                        </li>
-                        <li>
-                            <img src="http://i1.hdslb.com/u_user/8b512d617dbe119ff38c4c04984688d5.jpg" alt="" title="Sugar Song and Bitter Step">
-                        </li>
+                        @foreach($lunbo as $lunList)
+                            <li>
+                                <a href="{{ $lunList->link }}">
+                                    <img src="{{ $lunList->image }}" alt="{{ $lunList->alt }}" title="{{ $lunList->title }}">
+                                </a>
+                            </li>
+                        @endforeach
                     </ul>
                     <nav class="carousel-ctrl">
                         <ul>
+                            <!-- @foreach($lunbo as $lunList)
+                                @if($lunList->id == 1)
+                                    <li class="active">
+                                        <a href=""></a>
+                                    </li>
+                                @else
+                                    <li>
+                                        <a href=""></a>
+                                    </li>
+                                @endif
+                            @endforeach -->
                             <li class="active">
                                 <a href=""></a>
                             </li>
@@ -492,9 +167,10 @@
                         <span class="carousel-title"></span>
                     </nav>
                 </div>
+                <!-- 热门视频遍历 -->
                 <div class="indextop-video">
                     <ul class="indextop-video-listpanel">
-                        <li class="indextop-video-list">
+                        <!-- <li class="indextop-video-list">
                             <div class="mask"></div>
                             <div class="video-img"><img src="http://i0.hdslb.com/320_200/video/08/08a6a4bc9fe1679ffd6377f4ec8eb5e2.jpg" alt="test"></div>
                             <div class="info">
@@ -502,15 +178,15 @@
                                 <p>up主：祈Inory</p>
                                 <p>播放：33423</p>
                             </div>
-                        </li>
-                        @foreach($list as $v)
+                        </li> -->
+                        @foreach($hotList as $v)
                         <li class="indextop-video-list">
                             <div class="mask"></div>
-                            <div class="video-img"><img src="images/" alt="test"></div>
+                            <div class="video-img"><img src="{{ $v->image }}" alt="test"></div>
                             <div class="info">
-                                <h2>{{ $v->title }}</h2>
-                                <p>up主：{{ $v->uid }}</p>
-                                <p>播放：</p>
+                                <h2>【{{ $v->name }}】{{ $v->title }}</h2>
+                                <p>up主：{{ $v->name }}</p>
+                                <p>播放：{{ $v->count }}</p>
                             </div>
                         </li>
 
@@ -518,15 +194,16 @@
                     </ul>
                 </div>
             </div>
+            <!-- 分区遍历 -->
             @foreach($typeList as $type)
                 <a name="{{ $type->id }}"></a>
                 <div class="inner-section part{{ $type->id }} part-animate" id="part{{ $type->id+3 }}">
                     <div class="box-left">
                         <header class="part-animate-top">
                             <h2><i></i>{{ $type->name }}</h2>
-                            <span class="animation-tab active">有新动态</span>
+                            <!-- <span class="animation-tab active">有新动态</span>
                             <span class="animation-tab">最新投稿</span>
-                            <span class="animation-tab">干物妹小埋异闻录！</span>
+                            <span class="animation-tab">干物妹小埋异闻录！</span> -->
                             <div class="btn-right">
                                 <div class="btn-reset">
                                     <a href="javascript:;"></a>
@@ -543,7 +220,7 @@
                                 @if($v->tid == $type->id)
                                     <li>
                                         <div class="image-box">
-                                            <img src="http://i1.hdslb.com/320_200/video/91/91d1eb7a147128f4f8f8f9be546c1562.jpg" alt="">
+                                            <img src="{{ $v->image }}" alt="">
                                             <div class="video-time">60:00</div>
                                         </div>
                                         <a class="image-title">
@@ -561,6 +238,7 @@
                                         </a>
                                     </li>
                                 @endif
+
                             @endforeach
                             </ul>
                         </div>
@@ -576,24 +254,35 @@
                         <div class="carousel-animate-box">
                             <div class="rank-box">
                                 <ul>
-                                    <li>
-                                        <div class="rank">1</div>
-                                        <a href="javascript:;" class="rank-top">
-                                            <img src="http://i1.hdslb.com/320_200/video/81/813a22db0b3667a9307a2a113380e9bb.jpg" alt="">
-                                        </a>
-                                        <a href="javascript:;" class="rank-top-info">
-                                            <p class="rank-id">
-                                                <span class="rank-name">
-                                                   【六道笑点】四川方言版小埋02！？
-                                                </span>
-                                                <span class="rank-num">综合评分:23.4万</span>
-                                            </p>
-                                        </a>
-                                    </li>
+                                    <span style="display:none;">{{$num=0}}</span>
+                                    @foreach($listP as $p)
+                                        @if($p->tid == $type->id)
+                                            <li>
+
+                                                <div class="rank">{{ $num+=1 }}</div>
+
+                                                <a href="{{ $p->link }}" class="rank-top">
+                                                @if($num==1)
+                                                    <img src="{{ $p->image }}" alt="">
+                                                @endif
+                                                </a>
+
+                                                <a href="{{ $p->link }}" class="rank-top-info">
+                                                    <p class="rank-id">
+                                                        <span class="rank-name">
+                                                          【{{ $p->name }}】 {{ $p->title }}
+                                                        </span>
+                                                        <span class="rank-num">{{ $p->count }}</span>
+                                                    </p>
+                                                </a>
+                                            </li>
+                                        @endif
+
+                                    @endforeach
 
                                 </ul>
                             </div>
-                            <div class="rank-box">
+                            <!-- <div class="rank-box">
                                 <ul>
                                     <li>
                                         <div class="rank">1</div>
@@ -611,13 +300,425 @@
                                     </li>
 
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="checkmore">
                             <span>查看更多</span>
                         </div>
                     </aside>
                 </div>
+                @if($type->name == "番剧")
+                    <!--第五部分-2————番剧更新列表-->
+                    <div class="part-animate-list">
+                                        <div class="list-left">
+                                            <header>
+                                                <ul>
+                                                    <li class="list-controller" id="day1">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周一</span>
+                                                        </div>
+                                                        <span class="weekDay">一</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day2">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周二</span>
+                                                        </div>
+                                                        <span class="weekDay">二</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day3">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周三</span>
+                                                        </div>
+                                                        <span class="weekDay">三</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day4">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周四</span>
+                                                        </div>
+                                                        <span class="weekDay">四</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day5">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周五</span>
+                                                        </div>
+                                                        <span class="weekDay">五</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day6">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周六</span>
+                                                        </div>
+                                                        <span class="weekDay">六</span>
+                                                    </li>
+                                                    <li class="list-controller" id="day7">
+                                                        <div class="weekDay-active">
+                                                            <i class="icon"></i>
+                                                            <span>周日</span>
+                                                        </div>
+                                                        <span class="weekDay">日</span>
+                                                    </li>
+                                                </ul>
+                                                <a href="javascript:;" class="list-btn">
+                                                    <span>新番放送表</span>
+                                                </a>
+                                            </header>
+                                            <div class="list-box-1 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/u_user/57f3a73a6f1cc6d5337362bf55e1742c.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">黑之宣告</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-2 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/sp/e1/e1c1672bc56e12bdf59c3c47862e9657.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">我们这一家 新篇</span>
+                                                        <span class="episodes">更新至<i>17话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/u_user/4a1042b5d762a94365ef13c1aa395c51.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">苍之彼方的四重奏</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/6066e4f6724b4a7ae767b183772401ca.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">赤发白雪姬 第二季</span>
+                                                        <span class="episodes">更新至<i>16话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/u_user/a3273fb4cc38900ae36d58518e6127bc.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">魔法少女什么的已经够了啦</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/sp/a0/a04ce62b0c09abe9468ad33dbfeec164.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">女高中生给你做饭了!</span>
+                                                        <span class="episodes">更新至<i>18话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-3 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/89572d46d6d6beb63908129907097b3c.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">爱神巧克力</span>
+                                                        <span class="episodes">更新至<i>10话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/0bc44d59451adcf539af6f5a0e059cbe.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">侦探小队KZ事件薄</span>
+                                                        <span class="episodes">更新至<i>16话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-4 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/73ee53de8f13cc7fe222870c01c5098a.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">少女们向荒野进发</span>
+                                                        <span class="episodes">更新至<i>5话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://x-img.hdslb.net/group1/M00/98/55/oYYBAFaVy1SAebT8AADECTTfflU002.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">火影忍者 疾风传</span>
+                                                        <span class="episodes">更新至<i>667话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/u_user/e40c371e7ff905d2f9f33e6e0ff4f33c.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">画江湖之 灵主</span>
+                                                        <span class="episodes">更新至<i>184话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/033aed76e9492f3762ead0c5603ca58b.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">SUSHI POLICE</span>
+                                                        <span class="episodes">更新至<i>5话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/sp/b6/b6eea08a34318b3d208b0026760978d2.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">战斗之魂 第七季</span>
+                                                        <span class="episodes">更新至<i>41话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-5 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/24ced5d68bbffbff6c9164000f204835.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">粗点心战争</span>
+                                                        <span class="episodes">更新至<i>5话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/group1/M00/1D/28/oYYBAFaq7TSAYh9ZAAEqmTsxV5s498.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">侠岚·决敌篇</span>
+                                                        <span class="episodes">更新至<i>133话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/1ef5aee7d8ac0a3a69bb4772b29ce526.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">从前有座灵剑山</span>
+                                                        <span class="episodes">更新至<i>5话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/sp/97/97fb5abd6abba77594016a522f0a45cb.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">狐妖小红娘</span>
+                                                        <span class="episodes">更新至<i>18话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/sp/19/19d92659f69c03bc7dadef740d15625b.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">恐怖~僵尸猫</span>
+                                                        <span class="episodes">更新至<i>18话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/5bcf0db196d9acc43b638a64436fce66.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">大叔与棉花糖</span>
+                                                        <span class="episodes">更新至<i>5话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://x-img.hdslb.net/group1/M00/94/86/oYYBAFaU22OAJRAiAABNUCxXEQo235.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">旅街LateShow</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/64376dc79c745ffd3ff445beadf23ff6.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">石膏男孩</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/73833869ff5db2829bd85ca6d9e20f8d.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">梦幻之星Online2</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/sp/83/8361b7e22fd1667e3cc25dd6864108f1.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">那年那兔那些事儿第二季</span>
+                                                        <span class="episodes">更新至<i>7话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-6 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/c4d0b50ebc8d9a525064ea5d09624df4.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">无头骑士异闻录x2 结</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/849e1648e99746ceff5fae8645aaa618.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">舞武器舞乱伎</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/fe700c5dfed890e9e80a4e1bf3f29a8c.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">重装武器</span>
+                                                        <span class="episodes">更新至<i>16话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/sp/8b/8bf97dee5405043b0970278d0c4a01ad.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">牙狼 红莲之月</span>
+                                                        <span class="episodes">更新至<i>16话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://x-img.hdslb.net/group1/M00/BC/7E/oYYBAFacRXCATo62AAGZeEFLBAY749.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">Gate 奇幻异世界第二季</span>
+                                                        <span class="episodes">更新至<i>16话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/u_user/d2ca319feb0b7e87a8153ce51c4a131e.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">红壳的潘多拉</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i2.hdslb.com/sp/b7/b746c6098af8da6ff4bc2eeb0fc99b4f.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">游戏王 重制版 决斗者王国篇</span>
+                                                        <span class="episodes">更新至<i>49话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/sp/fb/fbf2b8a0946350af1b8138f843d45e26.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">游戏王 重制版 战斗都市篇</span>
+                                                        <span class="episodes">更新至<i>10话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="list-box-0 list-box">
+                                                <ul>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/9161ab0d652f8ba8c45dbe9a23d7af76.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">网球并不可笑嘛 第七季</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/4deca12b4f2e3707e193131a9d95463c.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">房东妹子青春期</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/sp/95/95b6ce0320e4f47f1bc2ec3093aa877e.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">家有穆珂</span>
+                                                        <span class="episodes">更新至<i>17话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/u_user/6c6ba7cb2a0c71b5fa7e3e72c9e4c09e.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">魔法护士小麦R</span>
+                                                        <span class="episodes">更新至<i>4话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i0.hdslb.com/u_user/4eed50135b10411a96ab3c58331372de.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">传颂之物 虚伪的假面</span>
+                                                        <span class="episodes">更新至<i>17话</i></span>
+                                                    </li>
+                                                    <li>
+                                                        <div class="img-box">
+                                                            <img src="http://i1.hdslb.com/sp/c7/c7489efbaa8c1b9a40daeb5c077c6274.jpg" alt="">
+                                                        </div>
+                                                        <span class="title">宝石宠物 第七季</span>
+                                                        <span class="episodes">更新至<i>28-36话</i></span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <aside>
+                                            <div class="carousel-box">
+                                                <ul class="carousel-panel">
+                                                    <li class="carousel-img"><img src="http://i0.hdslb.com/u_user/9b79d30420b9f32c31785de7f7518cde.jpg" alt=""></li>
+                                                    <li class="carousel-img"><img src="http://i2.hdslb.com/u_user/046ccd23b5e1b0e0d82e7a02936ac981.jpg" alt=""></li>
+                                                    <li class="carousel-img"><img src="http://i2.hdslb.com/u_user/eba3ff2c512a39a67f57005d01981033.jpg" alt=""></li>
+                                                </ul>
+                                                <div class="carousel-box-ctrl">
+                                                    <ul>
+                                                        <li data-name="混沌武士" data-index="0" class="active">
+                                                        </li>
+                                                        <li data-name="老虎和兔子" data-index="1">
+                                                        </li>
+                                                        <li data-name="隐王" data-index="2">
+                                                        </li>
+                                                    </ul>
+                                                    <span class="animate-name">
+                                                        混沌武士
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="finish-list">
+                                                <ul>
+                                                    <li></li>
+                                                    <li></li>
+                                                    <li></li>
+                                                    <li></li>
+                                                </ul>
+                                            </div>
+                                            <div class="other-finish">
+                                                <ul>
+                                                    <li>
+                                                        <div class="preview">
+                                                            <img src="http://i1.hdslb.com/sp/c6/c6f7339ea957882229dc4d3ac8a8cec3.jpg" alt="">
+                                                            <p>全25话</p>
+                                                        </div>
+                                                        <a href="javascript:;">Fate/Zero 第二季</a>
+                                                    </li>
+                                                    <li>
+                                                        <div class="preview">
+                                                            <img src="http://i0.hdslb.com/sp/32/32ff84ce8967b06061299a2acebcf72a.jpg" alt="">
+                                                            <p>全26话</p>
+                                                        </div>
+                                                        <a href="javascript:;">二舍六房的七人</a>
+                                                    </li>
+                                                    <li>
+                                                        <div class="preview">
+                                                            <img src="http://i1.hdslb.com/sp/67/67642f55895e70f058f3f74b6bea99e5.jpg" alt="">
+                                                            <p>全24话</p>
+                                                        </div>
+                                                        <a href="javascript:;">欢迎加入NHK！</a>
+                                                    </li>
+                                                    <li>
+                                                        <div class="preview">
+                                                            <img src="http://i0.hdslb.com/sp/14/14c2c9bef69fd1f5adf7ce617368018b.jpg" alt="">
+                                                            <p>全29话</p>
+                                                        </div>
+                                                        <a href="javascript:;">越狱兔 第1~5季</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </aside>
+                    </div>
+                 @endif
             @endforeach
 
             <div class="sidebar">
@@ -628,7 +729,7 @@
                         <a class="liebiao" href="#{{ $type->id }}"><li draggable="true" id="list{{ $type->id }}">{{ $type->name }}</li></a>
 
                     @endforeach
-                        <li class="sort">排序</li>
+                        <!-- <li class="sort">排序</li> -->
                     </ul>
                     <div class="sidebar-line"></div>
                     <div class="sidebar-arrow">
